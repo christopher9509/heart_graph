@@ -14,10 +14,8 @@ Heart disease is one of the leading causes of death in modern society. Over 50% 
 python == 3.8
 pandas == 1.4.2
 numpy == 1.23.0
-```
 
 ### torch module
-```
 pytorch == 1.11.0
 pytorch-cluster == 1.6.0 
 pytorch-lightning == 1.6.5
@@ -25,12 +23,12 @@ pytorch-mutex == 1.0
 pytorch-scatter == 2.0.9
 pytorch-sparse == 0.6.13
 pytorch-spline-conv == 1.2.1
-```
+
 ### graph module
-```
 igraph == 0.9.11
 graphviz == 2.50.0
 ```
+
 Nvidia GPU with cuda 11.2 are required for training models.
 
 ### Data
