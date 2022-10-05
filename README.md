@@ -49,12 +49,12 @@ python3 4096_1_test_smt.py
 GNN for predicting heart disease running command:
 
 ```
-python3 train.py --data_path {storage_path} --embedding_size 512 --result_path {model_path}
+python main_heart.py
 ```
 
 ## Architecture
 
-<img src="https://github.com/NYUMedML/GNN_for_EHR/blob/master/plots/model.png" alt="drawing" width="900"/>
+<img src="https://github.com/christopher9509/heart_graph/blob/main/plot/20221005_154612.png" alt="drawing" width="900"/>
 
 ## Acknowledgement
 https://github.com/Diego999/pyGAT
