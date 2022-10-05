@@ -37,9 +37,9 @@ Dataset : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of
 
 The preprocessing and make graph data Run the command:
 ```
-python3 4096_1_train_smt.py
-python3 4096_1_val_smt.py
-python3 4096_1_test_smt.py
+python3 create_graph_4096_1_train_smt.py
+python3 create_graph_4096_1_val_smt.py
+python3 create_graph_4096_1_test_smt.py
 ```
 
 ## Train
