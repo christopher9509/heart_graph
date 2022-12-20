@@ -1,4 +1,4 @@
-# HR-GNN
+# Heart Relation Graph Neural Network(HR-GNN)
 
 This repository contains the PyTorch implementation of the paper: 
 
